@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.imatia.campusdual.EjerciciosTest" time="0.522" tests="16" errors="0" skipped="1" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\cmiguel.santiago\campusdual\ejerciciostesting\target\test-classes;C:\Users\cmiguel.santiago\campusdual\ejerciciostesting\target\classes;C:\Users\cmiguel.santiago\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.2\junit-jupiter-5.8.2.jar;C:\Users\cmiguel.santiago\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.2\junit-jupiter-api-5.8.2.jar;C:\Users\cmiguel.santiago\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\cmiguel.santiago\.m2\repository\org\junit\platform\junit-platform-commons\1.8.2\junit-platform-commons-1.8.2.jar;C:\Users\cmiguel.santiago\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\cmiguel.santiago\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.2\junit-jupiter-params-5.8.2.jar;C:\Users\cmiguel.santiago\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.2\junit-jupiter-engine-5.8.2.jar;C:\Users\cmiguel.santiago\.m2\repository\org\junit\platform\junit-platform-engine\1.8.2\junit-platform-engine-1.8.2.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="Europe/Paris"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="ES"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-11.0.18.10-hotspot\bin"/>
+    <property name="sun.java.command" value="C:\Users\CMIGUE~1.SAN\AppData\Local\Temp\surefire6310588218797794296\surefirebooter15066769333410377591.jar C:\Users\cmiguel.santiago\AppData\Local\Temp\surefire6310588218797794296 2023-04-24T12-45-48_843-jvmRun1 surefire13384628502754560011tmp surefire_015963666749718802515tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\cmiguel.santiago\campusdual\ejerciciostesting\target\test-classes;C:\Users\cmiguel.santiago\campusdual\ejerciciostesting\target\classes;C:\Users\cmiguel.santiago\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.2\junit-jupiter-5.8.2.jar;C:\Users\cmiguel.santiago\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.2\junit-jupiter-api-5.8.2.jar;C:\Users\cmiguel.santiago\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\cmiguel.santiago\.m2\repository\org\junit\platform\junit-platform-commons\1.8.2\junit-platform-commons-1.8.2.jar;C:\Users\cmiguel.santiago\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\cmiguel.santiago\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.2\junit-jupiter-params-5.8.2.jar;C:\Users\cmiguel.santiago\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.2\junit-jupiter-engine-5.8.2.jar;C:\Users\cmiguel.santiago\.m2\repository\org\junit\platform\junit-platform-engine\1.8.2\junit-platform-engine-1.8.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\cmiguel.santiago"/>
+    <property name="user.language" value="es"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-01-17"/>
+    <property name="java.home" value="C:\Program Files\Eclipse Adoptium\jdk-11.0.18.10-hotspot"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\cmiguel.santiago\campusdual\ejerciciostesting"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="idea.version2019.2.4" value="true"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\CMIGUE~1.SAN\AppData\Local\Temp\surefire6310588218797794296\surefirebooter15066769333410377591.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.18+10"/>
+    <property name="user.name" value="cmiguel.santiago"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-11.0.18+10"/>
+    <property name="localRepository" value="C:\Users\cmiguel.santiago\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\CMIGUE~1.SAN\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.18"/>
+    <property name="user.dir" value="C:\Users\cmiguel.santiago\campusdual\ejerciciostesting"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-11.0.18.10-hotspot\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Eclipse Adoptium\jdk-11.0.18.10-hotspot\\bin;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin;C:\Python39\Scripts\;C:\Python39\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Program Files\PuTTY\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\ZeroTier\One\;C:\Program Files (x86)\GitExtensions\;C:\kube;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Software\apache-ant-1.9.16\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\apache-maven-3.9.1\bin;C:\Users\cmiguel.santiago\AppData\Local\Microsoft\WindowsApps;C:\apache-maven-3.6.3\bin;C:\Program Files\Java\jdk-11.0.5\bin;C:\Users\cmiguel.santiago\AppData\Roaming\npm;C:\Users\cmiguel.santiago\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\BrowserStackLocal\;C:\Users\cmiguel.santiago\AppData\Local\Programs\Git\cmd;C:\Users\cmiguel.santiago\AppData\Local\JetBrains\Toolbox\scripts;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="11.0.18+10"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="testBranchInAccounts" classname="com.imatia.campusdual.EjerciciosTest" time="0.244"/>
+  <testcase name="testNewCustomBranch" classname="com.imatia.campusdual.EjerciciosTest" time="0.01"/>
+  <testcase name="correctBalance" classname="com.imatia.campusdual.EjerciciosTest" time="0.009"/>
+  <testcase name="failTestBranchInAccounts" classname="com.imatia.campusdual.EjerciciosTest" time="0.005"/>
+  <testcase name="testDosCuentasDifAcountNumber" classname="com.imatia.campusdual.EjerciciosTest" time="0.006"/>
+  <testcase name="testConstructorVacio" classname="com.imatia.campusdual.EjerciciosTest" time="0.006"/>
+  <testcase name="correctBalance_v1" classname="com.imatia.campusdual.EjerciciosTest" time="0">
+    <skipped message="Assumption failed: assumption is not true" type="org.opentest4j.TestAbortedException">org.opentest4j.TestAbortedException: Assumption failed: assumption is not true
+	at com.imatia.campusdual.EjerciciosTest.correctBalance_v1(EjerciciosTest.java:207)
+</skipped>
+  </testcase>
+  <testcase name="when_incrementing_balance_twice_then_balance_is_correct" classname="com.imatia.campusdual.EjerciciosTest" time="0.006"/>
+  <testcase name="Test4_2" classname="com.imatia.campusdual.EjerciciosTest" time="0.004"/>
+  <testcase name="Test5_4" classname="com.imatia.campusdual.EjerciciosTest" time="0.019"/>
+  <testcase name="testSameEntityId" classname="com.imatia.campusdual.EjerciciosTest" time="0.003"/>
+  <testcase name="testDifferentEntityId" classname="com.imatia.campusdual.EjerciciosTest" time="0"/>
+  <testcase name="branchycuenta" classname="com.imatia.campusdual.EjerciciosTest" time="0.005"/>
+  <testcase name="testUnsuccessfulWithdrawBalance" classname="com.imatia.campusdual.EjerciciosTest" time="0.01"/>
+  <testcase name="correctWithdrawalBehaviour" classname="com.imatia.campusdual.EjerciciosTest" time="0.009"/>
+  <testcase name="testExceptionAccount" classname="com.imatia.campusdual.EjerciciosTest" time="0.003"/>
+</testsuite>

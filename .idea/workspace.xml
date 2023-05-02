@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ad05de3-c7b4-4b1c-be15-1af98a7a0ffc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="105" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OjAURRRhQiGSIk5LyheuIbrZTU" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/RedSocial" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.imatia.campusdual" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cmiguel.santiago\campusdual\ejerciciostesting\src\main\resources" />
+      <recent name="C:\Users\cmiguel.santiago\campusdual\ejerciciostesting\src\main\java\com\imatia\campusdual" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in ejerciciostesting">
+    <configuration name="All in ejerciciostesting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ejerciciostesting" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjercicioTest11.Test11_4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ejerciciostesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imatia.campusdual.Data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imatia.campusdual" />
+      <option name="MAIN_CLASS_NAME" value="com.imatia.campusdual.EjercicioTest11" />
+      <option name="METHOD_NAME" value="Test11_4(int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjercicioTest11.setNewWithdrawalCsvFileSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ejerciciostesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imatia.campusdual.Data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imatia.campusdual" />
+      <option name="MAIN_CLASS_NAME" value="com.imatia.campusdual.EjercicioTest11" />
+      <option name="METHOD_NAME" value="setNewWithdrawalCsvFileSource(int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjercicioTest11.testCsvSourceMultipleParameters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ejerciciostesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imatia.campusdual.Data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imatia.campusdual" />
+      <option name="MAIN_CLASS_NAME" value="com.imatia.campusdual.EjercicioTest11" />
+      <option name="METHOD_NAME" value="testCsvSourceMultipleParameters(java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.imatia.campusdual.Data" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <option name="PACKAGE_NAME" value="com.imatia.campusdual.Data" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.com.imatia.campusdual.Data" />
+      <item itemvalue="JUnit.EjercicioTest11.setNewWithdrawalCsvFileSource" />
+      <item itemvalue="JUnit.EjercicioTest11.Test11_4" />
+      <item itemvalue="JUnit.EjercicioTest11.testCsvSourceMultipleParameters" />
+      <item itemvalue="JUnit.All in ejerciciostesting" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in ejerciciostesting" />
+        <item itemvalue="JUnit.com.imatia.campusdual.Data" />
+        <item itemvalue="JUnit.EjercicioTest11.testCsvSourceMultipleParameters" />
+        <item itemvalue="JUnit.EjercicioTest11.Test11_4" />
+        <item itemvalue="JUnit.EjercicioTest11.setNewWithdrawalCsvFileSource" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ad05de3-c7b4-4b1c-be15-1af98a7a0ffc" name="Default Changelist" comment="" />
+      <created>1682063632483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682063632483</updated>
+      <workItem from="1682063638336" duration="8490000" />
+      <workItem from="1682320214422" duration="14803000" />
+      <workItem from="1682492442935" duration="1168000" />
+      <workItem from="1682594494123" duration="660000" />
+      <workItem from="1682598515949" duration="5279000" />
+      <workItem from="1683015310477" duration="226000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ejerciciostesting$All_in_ejerciciostesting.ic" NAME="All in ejerciciostesting Coverage Results" MODIFIED="1682678638266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ejerciciostesting$EjerciciosTest.ic" NAME="EjerciciosTest Coverage Results" MODIFIED="1682321016798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.imatia.campusdual.*</FILTER>
+    </SUITE>
+  </component>
+</project>
